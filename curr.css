@@ -1,0 +1,23 @@
+body{
+    width: 60%;
+    background-color: #ddd;
+    font-family: "Helvetica Neue";
+    font-weight: 1.5;
+    color: #444;
+    padding: 2% 0;
+    margin: 0 auto;
+}
+
+main{
+    background-color: #fff;
+    padding: 20px;
+}
+
+h1, h2{
+    color: rgb(140, 76, 8);
+}
+section{
+    margin-top: 0px;
+    padding-bottom: 5px;
+    border-top: solid 1px gray;
+}
